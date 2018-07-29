@@ -1,0 +1,8 @@
+mat-toolbar a {
+  cursor: pointer;
+}
+
+.toolbar-action li{
+  list-style-type: none;
+}
+
